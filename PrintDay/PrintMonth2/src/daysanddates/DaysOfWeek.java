@@ -1,9 +1,9 @@
-package daysAndDates;
+package daysanddates;
 
 public class DaysOfWeek {
-	public static String dayOfWeekStr(int NumberOfDay) {
+	public static String dayOfWeekStr(int numberOfDay) {
 		String dayStr = "";
-		switch (NumberOfDay) {
+		switch (numberOfDay) {
 			case 1:
 				dayStr = "Sunday";
 				break;
