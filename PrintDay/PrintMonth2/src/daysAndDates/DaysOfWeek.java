@@ -1,7 +1,7 @@
 package daysAndDates;
 
 public class DaysOfWeek {
-	public static String DayOfWeekStr(int NumberOfDay) {
+	public static String dayOfWeekStr(int NumberOfDay) {
 		String dayStr = "";
 		switch (NumberOfDay) {
 			case 1:
